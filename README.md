@@ -1,5 +1,6 @@
-# REPORGIT
-This project is to list github repositories
+<p align="center">
+  This project is to list github repositories
+<p/>
 
 <p align="center">
   <img width="100px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/6560335421556105714-512.png" alt="icon notion">
